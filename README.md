@@ -43,4 +43,4 @@ byte-identical output.
 ## Sources read while building
 
 Reuters, AP, AFP, Al Jazeera, UN News, PAHO, TechCrunch, CNN, Euronews,
-RNZ, The Hindu, Kyodo News, Le Monde, France 24, gov.uk.
+RNZ, The Hindu, Kyodo News, Le Monde, France 24, gov.uk, GeekWire.
