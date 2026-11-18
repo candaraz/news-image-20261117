@@ -11,10 +11,11 @@ sum up 17 November's world news in one image.
 ## The image
 
 A single 1024×1024 newspaper-style page: a masthead naming the day, three
-hero stories with original schematic illustrations (the Kerch Bridge span
-falling, the Gulf exchange at Bahrain and Qeshm, the Quad meeting in Manila
-ahead of the Shenzhen three-way), twelve numbered story cards with small
-original icons, a world map with fifteen numbered pins, a 25-item
+hero stories with dense original illustrated scenes (the Kerch Bridge span
+falling, the Gulf exchange at Bahrain and Qeshm, the Quad summit table in
+Manila ahead of the Shenzhen three-way), twelve numbered story cards each
+topped by an original illustrated scene with a caption band, a world map
+with fifteen numbered pins and a region colour key, a 25-item
 also-on-the-day list, and a footer stating the date rule and the outlets
 read. Forty stories in total, across six continents.
 
